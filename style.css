@@ -502,7 +502,7 @@ body{
     border: 4px;
     justify-content: center;
     flex-direction: column;
-    margin-left: 0px;
+    margin-left: -10px;
 }
 .rec-ii h2{
     margin-top: 10px;
@@ -539,7 +539,7 @@ body{
     border: 4px;
     justify-content: center;
     flex-direction: column;
-    margin-left: 0px;
+    margin-left: -10px;
 }
 .rec-iii h2{
     margin-top: 10px;
