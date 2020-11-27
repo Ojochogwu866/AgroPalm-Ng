@@ -236,14 +236,13 @@ body{
     margin-left: 22px;
 }
 .agropalm-farmer p{
-    width: 400px;
     margin-left: 22px;
     font-family: 'lato', sans-serif;
     font-weight: 500;
     font-size: 14px;
 }
 .agropalm-farmer-apply{
-    margin-left: 20px;
+    margin-left: 22px;
     margin-top: 10px;
     padding: 8px 3px;
     border: 1px solid #057135;
@@ -294,9 +293,9 @@ body{
     margin-top:  60px;
 }
 .form{
-    width: 230px;
-    height: 200px;
-    margin-left: 200px;
+    width: 210px;
+    height: 180px;
+    margin-left: 150px;
     margin-top: -200px;
     background: #fff;
     position: absolute;
@@ -312,7 +311,7 @@ body{
     
 }
 .form input{
-    width: 176px;
+    width: 156px;
     height: 30px;
     opacity: 0.2;
     background: #c4c4c4;
