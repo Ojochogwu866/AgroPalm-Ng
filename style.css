@@ -461,7 +461,7 @@ body{
     height: 170px;
     background: white;
     position: absolute;
-    left: 40px;
+    left: 22px;
     margin-top: 0px;
     border-radius: 10px;
     border: 4px;
@@ -502,6 +502,7 @@ body{
     border: 4px;
     justify-content: center;
     flex-direction: column;
+    margin-left: 22px;
 }
 .rec-ii h2{
     margin-top: 10px;
@@ -538,6 +539,7 @@ body{
     border: 4px;
     justify-content: center;
     flex-direction: column;
+    margin-left: 22px;
 }
 .rec-iii h2{
     margin-top: 10px;
